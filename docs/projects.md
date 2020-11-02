@@ -3,12 +3,7 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+A program used to configure network panels according to company specification for use in hotels and townhouses mainly.
+There was a GUI but I dont have an image of it to display so here is the github
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/programImage.png)
